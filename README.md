@@ -30,6 +30,40 @@ Harbory-Sentinel er:
 
 ---
 
-## 🧬 Struktur (fremtidig mappestruktur)
+## 🧩 Grunnlov: Sentinel H.E.A:R:T
 
-# Harbory-Sentinel
+> **"One ring to bind them – in vision, in value, in firelight."**
+
+Den fullstendige grunnloven for Harborys AI-system følger videre i dette dokumentet og dekker:
+
+- §1 Formål og Omfang  
+- §2 Definisjoner  
+- §3 Prinsipper og Verdier  
+- §4 Roller og Ansvar (menneskelig og AI)  
+- §5 Juridiske og regulatoriske krav (GDPR, bokføringslov, HMS osv.)  
+- §6 Tekniske og organisatoriske sikkerhetstiltak  
+- §7 Spilleregler, vurderingssystem (HarryScore), konflikthåndtering og stemmeverktøy for styret  
+- §8 Milepælsplan og utrulling  
+- §9 Endringshåndtering og revisjonslogikk  
+- §10 Signaturlinjer
+
+---
+
+## 📎 Hvordan bruke dokumentet
+
+- Hvis du jobber med utvikling eller sikkerhet: følg definisjonene og strukturen i §4–6.
+- Hvis du er en beslutningstaker eller investor: se særlig §1, §3 og §7.
+- Hvis du skal revidere eller foreslå endringer: følg prosedyren i §9.
+
+---
+
+## 🛡 Lisens og Forvaltning
+
+**Lisens:** Foreslått: [MIT] eller [CC-BY-SA 4.0].  
+**Forvalter:** Bjørn Tore Løken, Eier og arbeidsgiver for Sentinel H.E.A:R:T  
+**Først opprettet:** [04.06.2025]  
+**Neste revisjon:** [04.12.2025 + 6 måneder]
+
+---
+
+For full tekst, se videre i dokumentet nedenfor fra seksjon “## Sentinel H.E.A:R:T – Grunnlov for Ekte AI-Menneskesamarbeid”.
