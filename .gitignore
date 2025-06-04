@@ -1,0 +1,68 @@
+# === Harbory-Sentinel .gitignore ===
+# Protecting secrets, build artifacts, and system noise
+
+# --- General ---
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+*.DS_Store
+Thumbs.db
+
+# --- System folders ---
+.idea/
+.vscode/
+__pycache__/
+node_modules/
+.env
+.env.*
+*.local
+*.secret
+config/secrets/
+
+# --- Python ---
+*.py[cod]
+*.pyo
+*.pyd
+pip-log.txt
+dist/
+build/
+.eggs/
+*.egg-info/
+
+# --- JS / React / Web ---
+.yarn/
+.yarn-cache/
+.npm/
+*.tsbuildinfo
+*.cache/
+
+# --- AI / Data ---
+*.ckpt
+*.pt
+*.h5
+*.tflite
+*.onnx
+*.weights
+runs/
+models/checkpoints/
+
+# --- OS generated ---
+*.log
+*.bak
+*.tmp
+*.swp
+
+# --- Custom ---
+# Project-specific ignores (can extend as needed)
+dev_notes/
+debug/
+internal_drafts/
+LICENSE_TEMP/
+
+# --- Exclude private dashboards ---
+client/dashboard-private/
+
+# --- Final note ---
+# If unsure about a file: DO NOT COMMIT it before reviewing with Byorn-Dev or Sentinel.
